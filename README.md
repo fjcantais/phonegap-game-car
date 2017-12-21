@@ -1,2 +1,10 @@
-# phonegap-game-car
-Demo game made with Phonegap and Phaser
+# Juego demostracion de las capacidades del acelerometro
+
+## Usage
+
+### Desktop
+
+In your browser, open the file:
+
+    /www/index.html
+
